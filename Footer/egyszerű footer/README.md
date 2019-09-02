@@ -1,0 +1,1 @@
+HTML és CSS egy egyszerû footer-hez
